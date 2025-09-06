@@ -1,6 +1,4 @@
-# digital-logic-design-using-verilog
-
-# 🔐 Digital Logic Design using Verilog  
+#  Digital Logic Design using Verilog  
 
 Welcome to my collection of **Digital Logic Design projects implemented in Verilog HDL**.  
 This repository demonstrates my knowledge of **combinational and sequential circuits**, which form the backbone of **VLSI Design and DFT**.  
